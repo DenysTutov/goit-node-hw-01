@@ -1,15 +1,8 @@
-# Получаем и выводим весь список контактов в виде таблицы (console.table)
+1. Получаем и выводим весь список контактов в виде таблицы (console.table)
+   https://ibb.co/543KxX4
 
-https://ibb.co/543KxX4
+2. Получаем контакт по id https://ibb.co/tCF4wKB
 
-# Получаем контакт по id
+3. Добавялем контакт https://ibb.co/m8C3bk2
 
-https://ibb.co/tCF4wKB
-
-# Добавялем контакт
-
-https://ibb.co/m8C3bk2
-
-# Удаляем контакт
-
-https://ibb.co/1MpmstW
+4. Удаляем контакт https://ibb.co/1MpmstW
