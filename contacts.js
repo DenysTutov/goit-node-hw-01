@@ -22,7 +22,10 @@ const getContactById = async contactId => {
 
 const addContact = async (name, email, phone) => {
   const contacts = await listContacts();
-  const newContact = { id: v4(), name, email, phone };
+  const lastElement = contacts[contacts.length - 1];
+  const id = Number(lastElement.id) + 1;
+
+  const newContact = { id: `${id}`, name, email, phone };
 
   contacts.push(newContact);
   fs.writeFile(contactsPath, JSON.stringify(contacts));
