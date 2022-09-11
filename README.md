@@ -3,6 +3,6 @@
 
 2. Получаем контакт по id https://ibb.co/tCF4wKB
 
-3. Добавялем контакт https://ibb.co/m8C3bk2
+3. Добавялем контакт https://ibb.co/kHxRfj4
 
 4. Удаляем контакт https://ibb.co/1MpmstW
